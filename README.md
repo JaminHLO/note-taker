@@ -9,15 +9,18 @@ The Project is designed to function as a note taker to track my tasks. It is bui
 ## Installation
 
 Users will need to install the npm libraries as defined in the included package.json file.
-Set-Up Commands:
+Install Command:
 >npm i 
->npm init -y
 
 ## Usage
 
-Screenshot of program in use: [note-taker adding item to populated list](/public/assets/imagesch11-ss01.jpg) 
-Otherwise, the server is initialized from command line with:
+Server is initialized from command line with:
 >node server.js
+
+Notes may be added from the main(right) pane of the window. The current note may be saved my clicking the 'save' disk icon that appears once content exists for both Title and Text for the current Note. To start a new note, the '+' icon may be clicked at any time. Notes are displayed in the list(left) pane and may be deleted by clicking on the red trashcan icon to the right of each note.
+
+Screenshot of program in use: 
+![note-taker adding item to populated list](public/assets/images/ch11-ss01.jpg) 
 
 ## License
 
@@ -32,7 +35,7 @@ Georga Yoo: https://github.com/Georgeyoo
 
 Instruction was provided by Instructor Saurav with assistance from TAs Andreas #1, Andreas #2, Constan, and Morgan. 
 
-Additionally, I leaned heavily on the code-base provided to students in 28-Stu_Mini-Project - tailoring some of its code to our assignment. My purpose was to further familize myself with the recommended modular directory structure and the use of arrow functions to accomplish the backend assignment functionality.
+Additionally, I used portions of the code-base provided to students in 28-Stu_Mini-Project - tailoring some of its code to our assignment. My purpose was to further familize myself with the recommended modular directory structure and the use of arrow functions to accomplish the backend assignment functionality.
 
 ## Tests
 
