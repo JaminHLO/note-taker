@@ -39,7 +39,7 @@ Additionally, I used portions of the code-base provided to students in 28-Stu_Mi
 
 ## Tests
 
-The Project may tested running 'node server.js'and then opening <http://localhost:3001> in any browser. Please see the Demonstration Video above for a walkthrough.
+The Project may tested running 'node server.js'and then opening <http://localhost:3001> in any browser. The live site is available at: <https://morning-tor-25531.herokuapp.com/>.
 
 ## Questions
 
