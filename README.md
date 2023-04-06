@@ -15,7 +15,7 @@ Set-Up Commands:
 
 ## Usage
 
-A Demonstration Video showing the setup and functionality of the program is available here: <https://www.loom.com/share/5ae6c3890741488e98adc126cd24df96> 
+Screenshot of program in use: [note-taker adding item to populated list](/public/assets/imagesch11-ss01.jpg) 
 Otherwise, the server is initialized from command line with:
 >node server.js
 
